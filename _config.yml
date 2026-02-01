@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Thread Between Us # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A tangible interface to fascilitate intergenerational dialogue within Latin American families # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -38,11 +38,11 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/ # change to your Twitter homepage
+    - https://github.com/ThaisAlvarenga # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/thais-alvarenga-medina
 
 # Site Verification Settings
 webmaster_verifications:
@@ -99,6 +99,8 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
+  assets\img\lenca_cloth_pattern_1.JPG
+  # https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2147704202040284&f=1&nofb=1&ipt=5ec8fbaf55050f02d37b9fcac2d54d64c416cdfb5bf877591f9caf253e869db3
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
